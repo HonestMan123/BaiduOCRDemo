@@ -37,7 +37,7 @@ public class MatisseUtils {
                 //是否可以拍照
                 .capture(true)
                 .captureStrategy(
-                        new CaptureStrategy(true, "com.jy.wallets.fileprovider"))
+                        new CaptureStrategy(true, "com.baiduapi.demo.fileprovider"))
                 .forResult(requestCode);
     }
 
@@ -63,7 +63,7 @@ public class MatisseUtils {
                 //是否可以拍照
                 .capture(true)
                 .captureStrategy(
-                        new CaptureStrategy(true, "com.jy.wallets.fileprovider"))
+                        new CaptureStrategy(true, "com.baiduapi.demo.fileprovider"))
                 .forResult(requestCode);
     }
 }
