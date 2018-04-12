@@ -6,6 +6,8 @@ package com.baiduapi.demo.utils;
  */
 
 public class APPConstants {
+
     public static final String BAIDU_OCR_KEY = "D0GuCy7g0pTdwaq5HE3tDvhU";
+
     public static final String BAIDU_OCR_SECRET = "8BBDnoil37GBuvIHFclUaKrtH25474c7";
 }
